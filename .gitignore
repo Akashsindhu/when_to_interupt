@@ -1,0 +1,7 @@
+.idea/**
+new_raw/**
+files_to_annotate/**
+images/**
+Recommended_paper/**
+video_time_label/**
+annotation.xlsx
