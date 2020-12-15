@@ -2,8 +2,19 @@
 #  'none', '13': 'none', '14': 'none', '15': 'none', '16': 'none', '17': 'none', '18': 'not confused', '19': 'not confused', '20': 'not confused', '21':
 # 'not confused', '22': 'not confused', '23': 'not confused', '24': 'not confused', '25': 'not confused', '26': 'not confused', '27': 'not confused'}
 
-# path = "../new_raw/2019-10-17-14-39-40_frames_img_raw_04.avi\\0498.jpeg"
+path = "2019-10-16-15-11-45bag-img_raw_03"
+path2 = "../new_raw/2019-10-16-15-02-33bag_frames_img_raw_03.avi/"
+path = path.split("\\")
 
+first = path[0][:19]
+second = path[0][19:22]
+third = path[0][23:]
+
+print(len("2019-10-16-14-12-40bagpepper_robot_camera_front_camera_image_raw.avi"))
+
+# x = path[0][:22] + path[0][23:]
+# print(x)
+# print(path[1][:19] + "bag" + path[1][19:])
 
 
 
