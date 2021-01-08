@@ -60,7 +60,6 @@ In the model of CNN+GRU, the firstlayer should be a Conv2D layer that will deal 
 
 Figure 4: Plot of CNN + GRU Model
 
-PAGE5
 ![](https://github.com/Akashsindhu/when_to_interupt/blob/master/docs/Readme_figs/When_to_interrupt_Akash_Sindhu_Wen_Han_Tang_Jie_Wang.007.png)
 
 Figure 5: Summary of CNN + GRU Model
@@ -170,4 +169,3 @@ Link to the Github Repository:
 [3]Pavllo, D., Feichtenhofer, C., Grangier, D., Auli, M. (2019, March 29). 3D human pose estimation in video with temporal convolutions and semi-supervised training. Retrieved December 17, 2020, from https://arxiv.org/abs/1811.11742
 
 [4]Sun, J., Wang, J., Yeh, T. (n.d.). Video Understanding: From Video Classificationto Captioning. Retrieved December 17, 2020, from http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf
-PAGE13
